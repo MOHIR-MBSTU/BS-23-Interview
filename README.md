@@ -1,0 +1,1 @@
+The project is at a beginner level, and I am currently in the learning phase. To enhance my understanding of C# and .NET MVC with an ORM like Entity Framework, I plan to create an inventory tracking system. This project will help me grasp key concepts such as CRUD operations, data management, and the integration of MVC architecture with a database.
